@@ -51,4 +51,4 @@ JDBC is a standard Java API used to interact with relational databases like **My
 2. Create a database and required tables manually or via script.
 3. Download or clone the repository:
    ```bash
-   git clone https://github.com/yourusername/jdbc-practice.git
+   git clone https://github.com/Akhila-2006/jdbc-practice.git
